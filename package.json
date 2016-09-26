@@ -1,0 +1,16 @@
+{
+  "name": "hello-electron-with-pouchdb",
+  "version": "1.0.0",
+  "description": "A minimal Electron application, with PouchDB",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-rebuild": "^1.2.1"
+  },
+  "dependencies": {
+    "pouchdb": "^6.0.5"
+  }
+}
